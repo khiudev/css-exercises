@@ -2,8 +2,18 @@
     background-color: #ffc0cb;
     font-style: "Verdana", sans-serif;
 }
+.odd-number.cooler {
+    font-size: 24px;
+}
 
 #even-number {
     color: #0000ff;
     font-size: 36px;
+}
+
+#even-number-cooler {
+    background-color:#aed581;
+    font-weight: 700;
+    font-size: 24px;
+
 }
