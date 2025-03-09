@@ -1,0 +1,9 @@
+.odd-number {
+    background-color: #ffc0cb;
+    font-style: "Verdana", sans-serif;
+}
+
+#even-number {
+    color: #0000ff;
+    font-size: 36px;
+}
